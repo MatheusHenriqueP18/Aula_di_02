@@ -1,0 +1,24 @@
+body{ /*No body eu controlo a pagina toda*/
+    font-family: Arial, Helvetica, sans-serif;/*Fonte da pagina toda*/
+    background-color:silver; /*Cor de fundo da pagina*/
+    color: black; /*Cor da fonte*/
+}
+header{
+    background-color: red;
+    color: white;
+    padding: 50px;
+}
+main{
+    background-color: whitesmoke;
+    padding: auto;
+}
+footer{
+    background-color: dimgray;
+    color: white;
+    height: 100px; /*Altura do componete*/
+    padding: 50px;
+}
+a{
+    color:white;
+    padding: 5px; /*Espaço entre as margens*/
+}
